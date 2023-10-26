@@ -36,7 +36,7 @@ O projeto começa com uma análise exploratória dos dados para entender a distr
 Nesta etapa, os dados são preparados para treinamento dos modelos. Isso inclui a divisão dos dados em conjuntos de treinamento e teste, bem como a normalização das características para o modelo ter melhor processamento dos dados.
 
 # Treinamento e Avaliação do Modelo
-São treinados vários modelos de classificação, Logistic Regression, Decision Tree e Random Forest, para prever qual a classe do tumor, maligno ou benigno. Os modelos são avaliados usando métricas de desempenho, como acurácia, recall, pontuação F1 e classification report e matriz de confusão. O objetivo é escolher o modelo com o melhor desempenho.
+São treinados vários modelos de classificação Logistic Regression, Decision Tree e Random Forest, para prever qual a classe do tumor, maligno ou benigno. Os modelos são avaliados usando métricas de desempenho, como acurácia, recall, pontuação F1 e classification report e matriz de confusão. O objetivo é escolher o modelo com o melhor desempenho.
 
 # Resultados e Conclusões
 Os resultados finais incluem a avaliação do modelo escolhido e suas métricas de desempenho. Também são apresentadas interpretações clínicas das características mais importantes para o diagnóstico, além de discussões sobre a importância do projeto na medicina e na tomada de decisões clínicas.
