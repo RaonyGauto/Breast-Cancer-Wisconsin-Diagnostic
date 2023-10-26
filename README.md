@@ -1,4 +1,4 @@
-<div align="center">
+3<div align="center">
   
   <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-mes-de-conscientizacao-do-cancer-de-mama-plana_23-2149680731.jpg" alt="Ilustração do Mês de Conscientização do Câncer de Mama" width="40%">
 
@@ -20,14 +20,14 @@ Através da análise detalhada dos dados, engenharia de recursos e a implementa�
 * Modelos de Classificação: [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) , [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html ) e [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 
 # Instalação
-Este projeto usa as seguintes bibliotecas Python na versão 3.9 do Python:
+Este projeto usa as seguintes bibliotecas Python na versão 3.10 do Python:
 
-__pandas, numpy, seaborn, matplotlib.pyplot, sklearn.preprocessing, sklearn.linear_model, sklearn.metrics, sklearn.ensemble, pickle__
+__pandas, numpy, seaborn, matplotlib.pyplot, sklearn.preprocessing, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, sklearn.tree, sklearn.ensemble, pickle__
 
-Clone este repositório em sua máquina local usando $ git clone https://github.com/RaonyGauto/HR-Analytics-Employee-Attrition-Performance
+Clone este repositório em sua máquina local usando $ git clone https://github.com/RaonyGauto/Breast-Cancer-Wisconsin--Diagnostic-
 
 # Conjunto de Dados
-Os dados utilizados neste projeto foram obtidos no repositório UCI Machine Learning, que contém informações sobre características de núcleos celulares a partir de amostras de tecido mamário. Os atributos incluem medidas de textura, perímetro, área, suavidade, entre outros, que são usados para prever se um tumor é maligno ou benigno.
+Os dados utilizados neste projeto foram retirados a partir do site [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data). O dataset contém informações sobre características de núcleos celulares a partir de amostras retiradas através de biopsia do tecido mamário. Os atributos incluem medidas de textura, perímetro, área, suavidade, entre outros, que são usados para prever se um tumor é maligno ou benigno.
 
 # Análise Exploratória dos Dados
 O projeto começa com uma análise exploratória dos dados para entender a distribuição das características, identificar possíveis correlações e visualizar a diferença entre tumores malignos e benignos. Isso ajuda na seleção de recursos relevantes para a construção dos modelos de aprendizado de máquina.
