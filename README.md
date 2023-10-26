@@ -1,4 +1,4 @@
-3<div align="center">
+<div align="center">
   
   <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-mes-de-conscientizacao-do-cancer-de-mama-plana_23-2149680731.jpg" alt="Ilustração do Mês de Conscientização do Câncer de Mama" width="40%">
 
